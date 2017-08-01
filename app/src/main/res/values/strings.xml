@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Rage3Nafsak</string>
+    <string name="question">اسئلة</string>
+    <string name="statistic">احصائيات</string>
+    <string name="how_many_prayers">صليت كم مرة فى الجامع النهارده؟</string>
+    <string name="said_azkar">قلت اذكار النهاردة؟</string>
+    <string name="Quran">قريت كم صفحة من القران ؟</string>
+    <string name="gheba">حفظت كام ايه من القران ؟</string>
+    <string name="yes">اه</string>
+    <string name="no">لا</string>
+    <string name="done">ثم</string>
+
+
+    <string name="perc_prayers"> عدد الصلاوات فى الجامع </string>
+    <string name="perc_azkar">   عدد مرات الاذكار</string>
+    <string name="perc_quran"> عدد الصفح اللى قريتها </string>
+    <string name="perc_gheba"> عدد الايات اللى حفظتها </string>
+
+    <string name="curr">الاسبوع ده</string>
+    <string name="last"> الاسبوع اللى فات</string>
+
+    <string name="best_day"> افضل اسبوع </string>
+    <string name="fina">المجموع الكلى</string>
+
+
+</resources>
